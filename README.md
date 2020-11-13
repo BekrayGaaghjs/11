@@ -1,2 +1,5 @@
-# 11
-11
+# Çalınması Yasaktır
+
+- Çalan Kodır Dil Anlamışşsen?
+
+- tamam
